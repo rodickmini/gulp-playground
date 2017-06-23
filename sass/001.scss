@@ -1,0 +1,10 @@
+@import './bin/variables';
+
+.header {
+    background-color: $background-default-color;
+    font-style: bold;
+    display: block;
+    margin: 20px 30px 10px;
+    font-size: $font-size;
+    color: $theme-color;
+}

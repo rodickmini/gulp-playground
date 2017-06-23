@@ -1,0 +1,15 @@
+.header {
+  background-color: #FFF;
+  font-style: bold;
+  font-size: 20px;
+  color: red;
+  top: 30px;
+  bottom: 30px; }
+
+.meta {
+  background-color: blue; }
+  .meta .report {
+    font-size: 2em; }
+    .meta .report .bc {
+      display: block;
+      background-color: yellow; }

@@ -1,0 +1,11 @@
+@import './bin/variables';
+
+.header {
+    background-color: #FFF;
+    font-style: bold;
+    font-size: $font-size;
+    color: $theme-color;
+    .meta {
+        background-color: dark-grey;
+    }
+}

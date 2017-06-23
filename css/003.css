@@ -1,0 +1,7 @@
+.header {
+  background-color: #FFF;
+  font-style: bold;
+  font-size: 20px;
+  color: red; }
+  .header .meta {
+    background-color: dark-grey; }

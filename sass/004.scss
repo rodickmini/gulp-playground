@@ -1,0 +1,17 @@
+@import './bin/variables';
+@import './bin/base';
+
+.header {
+    background-color: #FFF;
+    font-style: bold;
+    font-size: $font-size;
+    color: $theme-color;
+    border: 1px solid $theme-color;
+    .meta {
+        background-color: red;
+    }
+    &.test {
+        font-size: 4em;
+        margin-bottom: $rcmd-margin-bottom;
+    }
+}
