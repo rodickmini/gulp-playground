@@ -1,1 +1,8 @@
-$top: 30px;
+@import './default';
+
+.header {
+    font-size: $font-size;
+    color: $theme-color;
+    background-color: $background-default-color;
+    margin-bottom: $rcmd-margin-bottom;
+}

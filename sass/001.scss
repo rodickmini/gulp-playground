@@ -1,10 +1,6 @@
-@import './bin/variables';
+// $font-size: 199px;
+$theme-color: green;
+$background-default-color: #d9000f;
+$rcmd-margin-bottom: 3em;
 
-.header {
-    background-color: $background-default-color;
-    font-style: bold;
-    display: block;
-    margin: 20px 30px 10px;
-    font-size: $font-size;
-    color: $theme-color;
-}
+@import "./bin/base";
